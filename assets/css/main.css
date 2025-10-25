@@ -2588,7 +2588,7 @@ a.meanmenu-reveal {
 
 .main__title {
   color: white;
-  font-size: 60px;
+  font-size: 100px;
   line-height: 1.2;
   font-weight: 800;
 }
@@ -2613,11 +2613,11 @@ a.meanmenu-reveal {
     font-size: 55px;
   }
 }
-@media only screen and (max-width: 991.98px) {
+/* @media only screen and (max-width: 991.98px) {
   .main__title {
     font-size: 32px;
   }
-}
+} */
 
 .hero__slider {
   max-width: 960px;
@@ -3704,13 +3704,13 @@ a.meanmenu-reveal {
   font-family: "bootstrap-icons";
   font-weight: 700;
   position: absolute;
-  font-size: 16px;
+  font-size: 14px;
   text-align: center;
   left: 0;
   top: 0;
   z-index: 1;
-  width: 30px;
-  height: 30px;
+  width: 25px;
+  height: 25px;
   background: rgb(46, 168, 244);
   border-radius: 50%;
   -webkit-border-radius: 50%;
