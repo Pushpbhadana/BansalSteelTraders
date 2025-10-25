@@ -2592,6 +2592,14 @@ a.meanmenu-reveal {
   line-height: 1.2;
   font-weight: 800;
 }
+
+.main__title_2 {
+  color: white;
+  font-size: 40px;
+  line-height: 1.2;
+  font-weight: 800;
+}
+
 .main__title span {
   color: #ffdd02;
 }
